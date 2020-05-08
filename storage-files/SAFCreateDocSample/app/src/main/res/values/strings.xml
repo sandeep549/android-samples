@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SAF Demo</string>
+    <string name="create_document1">Create Document\n (Using AsyncTask)</string>
+    <string name="create_document2">Create Document\n (Using DownloadManager)</string>
+</resources>
